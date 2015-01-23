@@ -4,10 +4,7 @@ Joseph Holan
 	This is a snapshot of my engine. This project is representitive of my work, 
 but this is taken from a rapidly evolving project so while most files are representitive
 of my work some no longer are. As I continue working I will update the list of files that need
-to be refactored, and are no longer representitive of my current work level. than others. For example 
-the lua math, transform, gameobject, luascript libs 
-are very old and are on the list to be refactored , so they are no longer representitive of 
-my Lua C api programming abilities.
+to be refactored, and are no longer representitive of my current work level.
 
 Refactor List
 	LuaLibs/GameObject/GameObjectHandleLibLua.cpp
